@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 I write things using below 70 iq
 
+![nah_yeah](https://github.com/user-attachments/assets/47a93808-d36e-45fc-a5dc-f01ab70fad2d)
