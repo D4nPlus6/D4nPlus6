@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![alive? probably](https://shields.io/badge/Alive-Probably-blue)](https://youtube.com/watch?v=dQw4w9WgXcQ )
+[![alive? possibly](https://shields.io/badge/Alive-Probably-blue)](https://youtube.com/watch?v=dQw4w9WgXcQ )
 
 I write things using below 70 iq
 
