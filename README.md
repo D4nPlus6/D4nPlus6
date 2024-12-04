@@ -1,4 +1,4 @@
-### hi bye
+### yo
 
 <!--
 **dave-new-dev/dave-new-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![alive? probably](https://shields.io/badge/Alive-Probably-blue)](https://youtube.com/watch?v=dQw4w9WgXcQ )
 
 I write things using below 70 iq
 
