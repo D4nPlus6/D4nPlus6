@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I write things using 0<**#70**<100 iq
+I write things using 0<#**70**<100 iq
 
 
 ![nahyeah](https://github.com/user-attachments/assets/59468e8b-c960-4f6d-a856-4dffda6ac1f0)
