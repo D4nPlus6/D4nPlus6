@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 I write things using 0<**70**<100 iq
 
+I lack the dedication to finish my projects :d
 
 ![nahyeah](https://github.com/user-attachments/assets/59468e8b-c960-4f6d-a856-4dffda6ac1f0)
