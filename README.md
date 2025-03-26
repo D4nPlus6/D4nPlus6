@@ -1,6 +1,6 @@
 ### yo
 
-I write things using 0<**70**<100 iq
+I write things using 0<**70**<10^6 iq
 
 I lack the dedication to finish my projects D:
 
